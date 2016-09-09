@@ -3,3 +3,4 @@ fahrenheit = (celsius * 9 / 5) + 32
 puts "The result is: "
 puts fahrenheit
 puts "."
+puts "."
